@@ -1,3 +1,1 @@
-DO NOT EXEC ANY FILES FROM HERE
-
-HERE IS POTENTIAL MALWARE
+CaptureTheFlag task: Exploitation of Local File Inclusion to Remote Command Execution, through php code comments in jpeg
